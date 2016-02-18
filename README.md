@@ -19,7 +19,7 @@ Pranav: facing specific challenges with interfacing Angular.js with our RESTful 
 
 Varun: none - he's counting his blessings!
 
-Saurabh: rendering QR image on Pebble Watch.
+Saurabh: Rendering QR image on Pebble Watch to match 32 bit system generated token ID.
 
 Jay: Working on a Windows machine after forgetting his MacBook Pro charger at home, writing the entire API in VIM while SSH'd into an Amazon EC2 instance via PuTTy.
 
@@ -33,7 +33,7 @@ Pranav: Angular.js, debugging, additional web-dev considerations!
 
 Varun: Working fast paced in a team environment and integrating successfully.
 
-Saurabh: Using zxing for QR Scanning.
+Saurabh: Using Google API Zxing for in app QR Scanning and 32 bit QR code generation.
 
 Jay: Being flexible with my given dev tools and getting things done!
 
